@@ -1,0 +1,41 @@
+# file ingore
+
+# special text file ingore
+t
+tmp
+log*
+data
+*.log
+*.js
+
+# binary file ignore
+*.o
+*.out
+*.pyc
+*.key
+*.tar
+*.zip
+*.gz
+
+
+# special postfix text file ingore
+*.config
+*.text
+*.txt
+*.ini
+
+
+# directonary ignore
+data/
+tmp/
+Debug/
+Release/
+obj/
+conf/
+.idea/
+result
+
+# cache & bak
+*~
+*.tmp
+*.bak
